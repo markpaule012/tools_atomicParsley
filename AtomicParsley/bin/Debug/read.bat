@@ -1,0 +1,1 @@
+ap.exe "E:\test.m4a" -t -E > read.txt

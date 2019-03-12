@@ -1,0 +1,27 @@
+﻿ Major Brand: M4A   -  version 512
+ Compatible Brands: isom iso2
+ Tagging schemes available:
+   iTunes-style metadata allowed.
+   ID3 tags on ID32 atoms @ file/movie/track level allowed.
+   ISO-copyright notices @ movie and/or track level allowed.
+   uuid private user extension tags allowed.
+---------------------------
+---------------------------
+  iTunes-style metadata tags:
+Atom "trkn" contains: 1 of 6
+Atom "©alb" contains: すきなの。
+Atom "©ART" contains: 鹿乃
+Atom "©nam" contains: Hello / How are you
+Atom "©too" contains: Lavf53.4.0
+Atom "©day" contains: 10/01/2013
+Atom "aART" contains: Kano
+Atom "©gen" contains: Anime
+Atom "soal" contains: #すきなの。
+Atom "covr" contains: 1 piece of artwork
+---------------------------
+free atom space: 4071
+padding available: 4071 bytes
+user data space: 556647
+media data space: 35912737
+---------------------------
+Extracted artwork to file: E:\test_artwork_1.jpg

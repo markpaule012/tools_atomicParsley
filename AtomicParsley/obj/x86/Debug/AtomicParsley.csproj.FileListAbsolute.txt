@@ -1,0 +1,33 @@
+c:\users\mark\documents\visual studio 2010\Projects\AtomicParsley\AtomicParsley\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2010\Projects\AtomicParsley\AtomicParsley\obj\x86\Debug\AtomicParsley.Form1.resources
+c:\users\mark\documents\visual studio 2010\Projects\AtomicParsley\AtomicParsley\obj\x86\Debug\AtomicParsley.Properties.Resources.resources
+c:\users\mark\documents\visual studio 2010\Projects\AtomicParsley\AtomicParsley\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mark\documents\visual studio 2010\Projects\AtomicParsley\AtomicParsley\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mark\documents\visual studio 2010\Projects\AtomicParsley\AtomicParsley\bin\Debug\AtomicParsley.exe
+c:\users\mark\documents\visual studio 2010\Projects\AtomicParsley\AtomicParsley\bin\Debug\AtomicParsley.pdb
+c:\users\mark\documents\visual studio 2010\Projects\AtomicParsley\AtomicParsley\obj\x86\Debug\AtomicParsley.exe
+c:\users\mark\documents\visual studio 2010\Projects\AtomicParsley\AtomicParsley\obj\x86\Debug\AtomicParsley.pdb
+C:\Users\Mark\documents\visual studio 2010\Projects\AtomicParsley\AtomicParsley\bin\Debug\UltraID3Lib.dll
+C:\Users\Mark\documents\visual studio 2010\Projects\AtomicParsley\AtomicParsley\bin\Debug\UltraID3Lib.xml
+C:\Users\Mark\documents\visual studio 2010\Projects\AtomicParsley\AtomicParsley\bin\Debug\Transitions.dll
+C:\Users\Mark\documents\visual studio 2010\Projects\AtomicParsley\AtomicParsley\bin\Debug\Transitions.pdb
+E:\Source\Projects\AtomicParsley 2.0\AtomicParsley\obj\x86\Debug\AtomicParsley.exe
+E:\Source\Projects\AtomicParsley 2.0\AtomicParsley\obj\x86\Debug\AtomicParsley.pdb
+E:\Source\Projects\AtomicParsley 2.0\AtomicParsley\bin\Debug\AtomicParsley.exe
+E:\Source\Projects\AtomicParsley 2.0\AtomicParsley\bin\Debug\AtomicParsley.pdb
+E:\Source\Projects\AtomicParsley 2.0\AtomicParsley\bin\Debug\Transitions.pdb
+E:\Source\Projects\AtomicParsley 2.0\AtomicParsley\bin\Debug\UltraID3Lib.xml
+E:\Source\Projects\AtomicParsley 2.0\AtomicParsley\obj\x86\Debug\AtomicParsley.csprojResolveAssemblyReference.cache
+E:\Source\Projects\AtomicParsley 2.0\AtomicParsley\obj\x86\Debug\AtomicParsley.Form1.resources
+E:\Source\Projects\AtomicParsley 2.0\AtomicParsley\obj\x86\Debug\AtomicParsley.Properties.Resources.resources
+E:\Source\Projects\AtomicParsley 2.0\AtomicParsley\obj\x86\Debug\AtomicParsley.csproj.GenerateResource.Cache
+E:\Source\Projects\AtomicParsley 3.0\AtomicParsley\obj\x86\Debug\AtomicParsley.exe
+E:\Source\Projects\AtomicParsley 3.0\AtomicParsley\obj\x86\Debug\AtomicParsley.pdb
+E:\Source\Projects\AtomicParsley 3.0\AtomicParsley\bin\Debug\AtomicParsley.exe
+E:\Source\Projects\AtomicParsley 3.0\AtomicParsley\bin\Debug\AtomicParsley.pdb
+E:\Source\Projects\AtomicParsley 3.0\AtomicParsley\bin\Debug\Transitions.pdb
+E:\Source\Projects\AtomicParsley 3.0\AtomicParsley\bin\Debug\UltraID3Lib.xml
+E:\Source\Projects\AtomicParsley 3.0\AtomicParsley\obj\x86\Debug\AtomicParsley.csprojResolveAssemblyReference.cache
+E:\Source\Projects\AtomicParsley 3.0\AtomicParsley\obj\x86\Debug\AtomicParsley.Form1.resources
+E:\Source\Projects\AtomicParsley 3.0\AtomicParsley\obj\x86\Debug\AtomicParsley.Properties.Resources.resources
+E:\Source\Projects\AtomicParsley 3.0\AtomicParsley\obj\x86\Debug\AtomicParsley.csproj.GenerateResource.Cache
